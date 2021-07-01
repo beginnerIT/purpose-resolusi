@@ -1,0 +1,2 @@
+# purpose-resolusi
+belajar
